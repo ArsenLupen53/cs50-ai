@@ -119,8 +119,6 @@ def shortest_path(source, target):
 
     return None
 
-    raise NotImplementedError
-
 
 def person_id_for_name(name):
     """
